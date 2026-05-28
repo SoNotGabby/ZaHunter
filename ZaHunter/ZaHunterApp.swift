@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct ZaHunterApp: App {
+struct Za_HunterApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
